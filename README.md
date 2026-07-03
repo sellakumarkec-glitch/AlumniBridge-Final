@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎓 Alumni Bridge - Alumni Network & Career Platform
 
 > A comprehensive web platform connecting college alumni with students for mentorship, job opportunities, and community building.
@@ -273,3 +274,6 @@ For questions or support, please reach out to the team.
 **Made with React ⚛️ + TypeScript 💪 + Tailwind CSS 🎨**
 
 *Connecting Generations, Building Futures.*
+=======
+# AluminiBridge
+>>>>>>> 08bab6af55c7d4c8e55ca875378af362b914447f
